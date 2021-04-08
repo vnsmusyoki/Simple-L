@@ -1,0 +1,4 @@
+ SIMPLE L is small scripting language c++ intgration developed step by step right as indicated below:
+  1.tokenizers usefull for breaking the instructions and data fed to the complier into words,sentenses generally known as tokens which are helpful in understanding  the context and developing NLP which is used in interprating the meaning of the text by interpreating the sequence of words.
+2.Creating Parser  parser is a component of a compiler or interpreter, which parses the source code of a computer programming language to create some form of internal representation; the parser is a key step in the compiler frontend.
+3. Implementing  Statements , Expressions and Variables 
